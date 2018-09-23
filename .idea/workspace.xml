@@ -10,10 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="985a971a-7b0f-4de8-8bca-5867c1bd774a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ap3.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ap4.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ap5.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ap6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apitest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main5.cpp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +32,10 @@
     <session id="420782020">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,7 +52,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ap2.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,7 +75,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="436" />
-    <option name="y" value="163" />
+    <option name="y" value="27" />
     <option name="width" value="1400" />
     <option name="height" value="956" />
   </component>
@@ -75,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,24 +126,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537600400662</updated>
-      <workItem from="1537600403724" duration="756000" />
+      <workItem from="1537600403724" duration="1989000" />
+      <workItem from="1537687524506" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="756000" />
+    <option name="totallyTimeSpent" value="1996000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="163" width="1400" height="956" extended-state="0" />
-    <editor active="true" />
+    <frame x="436" y="27" width="1400" height="956" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -142,10 +147,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,12 +164,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apitest">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ap5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/apitest" />
+    <entry file="file://$PROJECT_DIR$/ap5.txt" />
     <entry file="file://$PROJECT_DIR$/ap2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
